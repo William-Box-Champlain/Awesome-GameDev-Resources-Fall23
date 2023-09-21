@@ -16,7 +16,7 @@ Relevant dates for the Fall 2023 semester:
 - 11-15 Dec 2023 - Finals Week
 
 
-<div class="grid cards" markdown>
+<div class="Grid cards" markdown>
 
 -   ### :beginner:{ .lg .middle } __Introduction__
 
@@ -36,7 +36,7 @@ Relevant dates for the Fall 2023 semester:
     - Formal Assignment: 
     - Interactive Assignment:
 
--  ### :material-grid:{ .lg .middle } __Pointers__
+-  ### :material-Grid:{ .lg .middle } __Pointers__
 
     ---
 

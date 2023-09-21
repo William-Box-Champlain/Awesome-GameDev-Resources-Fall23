@@ -11,7 +11,7 @@ Relevant dates for the Fall 2023 semester:
 - 20-24 Nov 2023 - Thanksgiving Break
 - 11-15 Dec 2023 - Finals Week
 
-<div class="grid cards" markdown>
+<div class="Grid cards" markdown>
 
 -   ### :beginner:{ .lg .middle } __Introduction__
 
@@ -31,7 +31,7 @@ Relevant dates for the Fall 2023 semester:
     - Formal Assignment: [Flocking at Beecrowd](assignments/flocking/README.md)
     - Interactive Assignment: [Flocking at MoBaGEn](https://github.com/InfiniBrains/mobagen/tree/master/examples/flocking)
 
--   ### :material-grid:{ .lg .middle } __Finite Automata__
+-   ### :material-Grid:{ .lg .middle } __Finite Automata__
 
     ---
 

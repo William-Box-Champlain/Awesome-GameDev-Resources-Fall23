@@ -6,11 +6,11 @@ Some of the most common techniques for space quantization are: grids, voxels, gr
 
 # Grids
 
-Grids are the most common technique for space quantization. It is a very simple technique, but it is very powerful. It consists in dividing the space in a grid of cells, and then we can use the cell coordinates to represent the space. The most common grid is the square grid, but we can use hexagonal and triangular grids, you might find some irregular shapes useful to exploit the space conformation better.
+Grids are the most common technique for space quantization. It is a very simple technique, but it is very powerful. It consists in dividing the space in a Grid of cells, and then we can use the cell coordinates to represent the space. The most common Grid is the square Grid, but we can use hexagonal and triangular grids, you might find some irregular shapes useful to exploit the space conformation better.
 
 ## Square Grid
 
-The square grid is a regular grid, where the cells are squares. It is very simple to implement and understand.
+The square Grid is a regular Grid, where the cells are squares. It is very simple to implement and understand.
 
 There are some ways to store data for squared grids. Arguably you could 2D arrays, arrays of arrays or vector of vectors, but depending on the way you implement it, it can hurt the performance. Example: if you use an array of arrays or vector of vectors, where every entry from de outer array is a pointer to the inner array, you will have a lot of cache misses, because the inner arrays are not contiguous in memory. 
 
@@ -19,7 +19,7 @@ There are some ways to store data for squared grids. Arguably you could 2D array
 So in order do increase data locality for squared grids, you can use a single array, and then use the following formula to calculate the index of the cell. We call this strategy matrix flattening.
 
 ```c++
-int arrray[width * height]; // 1D array with the total size of the grid
+int arrray[width * height]; // 1D array with the total size of the Grid
 int index = x + y * width; // index of the cell at x,y
 ```
 
@@ -71,7 +71,7 @@ std::vector<Vector2int> get_neighbors(Vector2int index) {
 
 ## Hexagonal Grid
 
-Hexagonal grid is an extension of a square grid, but the cells are hexagons. It feels nicer to human eyes because we have more equally distant neighbors. If used as subtract for pathfinding, it can be more efficient because the path can be more straight.
+Hexagonal Grid is an extension of a square Grid, but the cells are hexagons. It feels nicer to human eyes because we have more equally distant neighbors. If used as subtract for pathfinding, it can be more efficient because the path can be more straight.
 
 It can be implemented as single dimension array, but you need to be careful with shift that happens in different odd or even indexes. You can use the following formula to calculate the index of the cell. In this world quantization can be in 4 conformations, depending on the rotation of the hexagon and the alignment of the first cell.
 

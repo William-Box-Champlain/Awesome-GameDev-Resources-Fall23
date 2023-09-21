@@ -9,6 +9,10 @@ The game consists in a C x L matrix of cells (Columns and Lines), where each cel
 3. Any live cell with more than three live neighbours dies, as if by overpopulation.
 4. Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
+	Cell-states
+	-Living
+	-Dead
+
 ![glider](glider.gif){ align=center }
 
 The map is continuous on every direction, so the cells on the edges have the cells on the opposite edge as neighbors. It is effectively a toroidal surface.
