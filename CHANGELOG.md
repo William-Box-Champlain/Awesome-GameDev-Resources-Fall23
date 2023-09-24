@@ -1,3 +1,180 @@
+## [1.11.1](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.11.0...v1.11.1) (2023-09-14)
+
+
+### Bug Fixes
+
+* **ai:** add tests to catchthecat assignment ([383ba04](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/383ba04e407823b4011a568cacd626352512ada0))
+
+# [1.11.0](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.11...v1.11.0) (2023-09-12)
+
+
+### Features
+
+* **catchthecat:** add automated tests ([1819997](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/1819997d23017dd7d48ae0824f80d20575bb1a66))
+
+## [1.10.11](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.10...v1.10.11) (2023-09-12)
+
+
+### Performance Improvements
+
+* **catchthecat:** better description for the competition ([2ab568c](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/2ab568c11c99a33dd7b7964b280784413bd355d4))
+
+## [1.10.10](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.9...v1.10.10) (2023-09-12)
+
+
+### Performance Improvements
+
+* **ai:** improve catch the cat assignment description ([ed4b7b5](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/ed4b7b58ab8d1db2aa57b2fdcefb01431ca9d97e))
+
+## [1.10.9](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.8...v1.10.9) (2023-09-12)
+
+
+### Performance Improvements
+
+* **ai:** better rng assignment description ([cf141e1](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/cf141e1c31ff76dcd9988e6521ecd014b78685c1))
+
+## [1.10.8](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.7...v1.10.8) (2023-09-12)
+
+
+### Bug Fixes
+
+* **ai:** fix rng test cases ([7b6e964](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/7b6e96492f27edfbb5eee21eefccb40851e1e29e))
+
+## [1.10.7](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.6...v1.10.7) (2023-09-12)
+
+
+### Bug Fixes
+
+* **ai:** fix rng automated tests endline ([81ad7f6](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/81ad7f6f4e0b36554bb12cafc7fc09026a2122c1))
+
+## [1.10.6](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.5...v1.10.6) (2023-09-12)
+
+
+### Performance Improvements
+
+* **ai:** add more emojis and icons ([67db6cf](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/67db6cf5490b085571e2104d056a0bc8feb7d6b7))
+
+## [1.10.5](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.4...v1.10.5) (2023-09-11)
+
+
+### Bug Fixes
+
+* **ai:** inline warning ([eccdfee](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/eccdfee3bd9b108bfef2d708a87cc38cd0c360d9))
+
+## [1.10.4](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.3...v1.10.4) (2023-09-11)
+
+
+### Performance Improvements
+
+* **ai:** improved the clion setup ([6b63caf](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/6b63cafcdfa18098788e38f54e51e6031cfcde05))
+
+## [1.10.3](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.2...v1.10.3) (2023-09-11)
+
+
+### Bug Fixes
+
+* **blog:** add SDL statements to generate libs at the same path ([e1b3377](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/e1b3377323026c926198cdbb92de9e8dca78de07))
+
+## [1.10.2](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.1...v1.10.2) (2023-09-11)
+
+
+### Bug Fixes
+
+* **ai:** maze description fix ([26c3ffb](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/26c3ffb36abb2382b815ff2d0804978c5f053e22))
+
+## [1.10.1](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.10.0...v1.10.1) (2023-09-09)
+
+
+### Bug Fixes
+
+* Update CppCmakeCPMandSDL3.md ([219e0ba](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/219e0ba96b82e1ad3eaab88c06216bd8677af8e8))
+
+# [1.10.0](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.9.1...v1.10.0) (2023-09-09)
+
+
+### Bug Fixes
+
+* **blog:** add "more" to the latest post ([2d3d34e](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/2d3d34e8e80692a3bb085367c85b40d33ef53d92))
+
+
+### Features
+
+* **blog:** add post about SDL, CPM and CMake ([fc03a8c](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/fc03a8c6d2b63b1db8f7e1deaf449e8ff5b144f6))
+
+## [1.9.1](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.9.0...v1.9.1) (2023-09-08)
+
+
+### Bug Fixes
+
+* **datatypes:** add caption to ascii table ([4a6ca34](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/4a6ca341d43d443c0353add698bebfb8e519e2f4))
+* **flocking:** catch the cat assignment reference ([948da2a](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/948da2ae627b024420eac0a78567bde92e3d8679))
+
+# [1.9.0](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.15...v1.9.0) (2023-09-08)
+
+
+### Features
+
+* **cattrap:** add catch the cat assignment ([d78cc50](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/d78cc50f50277e2c050c3f4e6951ab56becfc76d))
+
+## [1.8.15](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.14...v1.8.15) (2023-09-08)
+
+
+### Bug Fixes
+
+* **ai:** assignments description ([eb039be](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/eb039bed5102bfa316fbba615e004f6c4de8d8df))
+* **intro:** remove ascii table from the material ([69f7f8b](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/69f7f8b7da62526a01e3bbb9c646b8d4df76e8f7))
+
+## [1.8.14](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.13...v1.8.14) (2023-09-07)
+
+
+### Bug Fixes
+
+* **typos:** fix minor typos ([b083c70](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/b083c7062b2f92dd76a842dac17348b307c9e945))
+
+## [1.8.13](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.12...v1.8.13) (2023-09-07)
+
+
+### Performance Improvements
+
+* **intro:** add ascii table ([6cd497c](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/6cd497c0720d0c9a7546feba75610b3a023c455c))
+
+## [1.8.12](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.11...v1.8.12) (2023-09-06)
+
+
+### Bug Fixes
+
+* **ai:** add link to flocking materials to AI summary ([5c500f4](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/5c500f44fba0fe34395ee1f0c09eb411c8a01a1e))
+* **blog:** notes on submissions ([f66ddc6](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/f66ddc6b14f5d52b9709ff947b9e63cf1adcc2cf))
+
+## [1.8.11](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.10...v1.8.11) (2023-09-06)
+
+
+### Bug Fixes
+
+* **font:** change to jost ([00125a0](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/00125a0944cc3cdf9e96449bc5e83a5d3f666bc2))
+
+## [1.8.10](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.9...v1.8.10) (2023-09-06)
+
+
+### Bug Fixes
+
+* **data-types:** fix data types descriptions ([78fc0d4](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/78fc0d4329d05641cc0c7666971899853d1c4715))
+
+## [1.8.9](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.8...v1.8.9) (2023-09-06)
+
+
+### Bug Fixes
+
+* **data-types:** add spacing on the data-types specification ([b361d98](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/b361d987b8c5fd947a4e498cda2766cf3bd03290))
+* **typo:** remove unused button ([061968d](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/061968d83936c885fafe4f2b6b7b4984a22f7240))
+
+## [1.8.8](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.7...v1.8.8) (2023-09-05)
+
+
+### Performance Improvements
+
+* **flocking:** add better arrows ([def6512](https://github.com/InfiniBrains/Awesome-GameDev-Resources/commit/def65128a795bb394ea5ddbd2d7e33e20379ad4f))
+
 ## [1.8.7](https://github.com/InfiniBrains/Awesome-GameDev-Resources/compare/v1.8.6...v1.8.7) (2023-09-04)
 
 
